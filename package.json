@@ -7,6 +7,9 @@
     "callback": "node src/callbacks/index.js",
     "challenge": "node src/callbacks/challenge.js",
     "promise": "node src/promises/index.js",
+    "promise_challenge": "node src/promises/challenge.js",
+    "async": "node src/async_await/index.js",
+    "async_challenge": "node src/async_await/challenge.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
