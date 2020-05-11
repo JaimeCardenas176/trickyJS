@@ -1,0 +1,22 @@
+{
+  "name": "ramapi",
+  "version": "1.0.0",
+  "description": "working with asincronism in javascript",
+  "main": "src/index.js",
+  "scripts": {
+    "callback": "node src/callbacks/index.js",
+    "challenge": "node src/callbacks/challenge.js",
+    "promise": "node src/promises/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "callbacks",
+    "promises",
+    "async"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "xmlhttprequest": "^1.8.0"
+  }
+}
